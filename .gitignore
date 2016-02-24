@@ -1,0 +1,9 @@
+
+out
+data
+main
+*.o
+.*.swp
+[Dd]ebug
+[Rr]elease
+ipch
